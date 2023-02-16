@@ -26,3 +26,5 @@ MATH;
 [MEDIAPIPE](https://mediapipe.dev/)  
 [OPENCV](https://pypi.org/project/opencv-python/)  
 
+[PPT_REPORT](https://drive.google.com/drive/folders/1O_KqQIarlD9GJiQ0sodIM3n34HVU_imd?usp=sharing)
+
